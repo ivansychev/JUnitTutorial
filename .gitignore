@@ -1,0 +1,6 @@
+#Intelij Idea
+.idea
+JUnitTutorial.iml
+
+#Maven
+target
